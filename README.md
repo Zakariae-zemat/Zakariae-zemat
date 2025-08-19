@@ -57,6 +57,7 @@ const zakariae = {
       <br><em>Software Engineering Intern</em>
       <br>🔹 French startup experience (Remote)
       <br>🔹 Full-stack web development
+      <br>🔹 vacancy streaming, transformation,<br> and visualization pipeline
     </td>
   </tr>
 </table>
