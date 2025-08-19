@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="mailto:zakariaezemat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zemat-zakariae/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://zemat-zakariae.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://wa.me/212636-815922"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
@@ -17,39 +17,20 @@
 
 ```javascript
 const zakariae = {
-    location: "Casablanca, Morocco 🇲🇦",
+    location: "Ksar el Kebir, Morocco 🇲🇦",
     education: "Software Engineering Student @ FST Settat",
-    currentFocus: ["System Design", "Cloud Architecture", "LLMOps"],
-    community: "Co-Founder & Content Creator @ K3L Community",
-    motto: "If you see clean, scalable code that just works - you know I'm on the team 🎯",
-    funFact: "I turn coffee into code and complex problems into elegant solutions ☕➡️💻"
+    currentFocus: ["Full-Stack Development", "AI Solutions", "DevOps & Cloud],
+    funFact: "I turn coffee into code and complex problems into elegant solutions"
 };
 ```
 
-🎯 **Software Engineering student** passionate about creating impactful solutions  
-🚀 **Full-stack developer** with experience in modern web technologies  
-🤖 **AI enthusiast** integrating intelligent features into applications  
-🛠️ **DevOps advocate** streamlining development workflows  
-🌟 **Community builder** - Co-Founder & Content Creator at K3L Community  
-🏆 **Leader** - VP & Project Lead at IMPACT Club  
+ **If you see intelligent, scalable solutions running seamlessly from code to cloud - you know I'm on the team 🚀**
 
 ---
 
 ## 💼 **Professional Experience**
 
 <div align="center">
-  
-### 🌟 **Current Role**
-  
-**Co-Founder & Content Creator** | **K3L Community** | *2024 - Present*  
-🔹 Building and leading a tech community focused on knowledge sharing  
-🔹 Creating educational content for developers  
-🔹 Organizing tech events and workshops  
-
-</div>
-
-### 🚀 **Internship Journey**
-
 <table>
   <tr>
     <td align="center">
@@ -76,7 +57,6 @@ const zakariae = {
       <br><em>Software Engineering Intern</em>
       <br>🔹 French startup experience (Remote)
       <br>🔹 Full-stack web development
-      <br>🔹 International team collaboration
     </td>
   </tr>
 </table>
