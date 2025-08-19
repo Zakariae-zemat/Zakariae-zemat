@@ -276,7 +276,7 @@ const zakariae = {
 ### **🌍 Community & Networking**
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/108041218"><img src="https://img.shields.io/badge/K3L_Community-Co--Founder-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/108041218"><img src="https://img.shields.io/badge/K3L_Community-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ### **📬 Let's Build Something Amazing Together!**
