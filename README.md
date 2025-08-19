@@ -64,9 +64,9 @@ const zakariae = {
 
 ---
 
-## 🚀 **All Projects Portfolio**
+## 🚀 **Projects**
 
-<div align="center">
+<div >
 
 #### 🏢 **Insurance Management System** | *Business IT Solutions Internship*
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
