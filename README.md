@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm **Zakariae ZEMAT** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+DevOps+Enthusiast+%F0%9F%A4%96;Co-Founder+%40+K3L+Community+%F0%9F%8C%9F;Building+The+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Software+Engineer;Co-Founder+%40+K3L+Community+%F0%9F%8C%9F;AI+%26+DevOps+Enthusiast+;" alt="Typing SVG" />
 </div>
 
 <p align="center">
