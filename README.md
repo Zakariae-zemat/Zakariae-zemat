@@ -68,15 +68,13 @@ const zakariae = {
 
 <div align="center">
 
-### 🔥 **Currently Working On**
-
 #### 🏢 **Insurance Management System** | *Business IT Solutions Internship*
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)](https://jwt.io/)
 
-*Enterprise-grade insurance management with JWT/2FA authentication, OCR processing, ML regression model, and comprehensive monitoring stack*
+*insurance management system with JWT/2FA authentication, OCR processing, ML regression model, and comprehensive monitoring stack*
 
 #### 🤖 **Sovereign AI Gateway** | *XAI Internship*
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
@@ -84,10 +82,6 @@ const zakariae = {
 [![LLM](https://img.shields.io/badge/LLM_Serving-9C27B0?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
 *Moroccan alternative to OpenRouter - LLM serving platform with API gateway, containerization, and cloud deployment*
-
----
-
-### 🌟 **Featured Personal Projects**
 
 #### 🩸 **LifeLinkAI** - *Intelligent Blood Donation Platform*
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -120,7 +114,7 @@ const zakariae = {
 #### 💼 **Job Offer Data Pipeline**
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)](https://talend.com/)
-[![ETL](https://img.shields.io/badge/ETL_Pipeline-4CAF50?style=flat-square&logo=databricks&logoColor=white)](https://databricks.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 
 *Real-time job vacancy streaming, transformation, and visualization pipeline*
 
@@ -228,50 +222,9 @@ const zakariae = {
 </p>
 
 </div>
-
 ---
 
-## 📊 **GitHub Analytics & Statistics**
-
-<div align="center">
-  
-### **📈 GitHub Stats Overview**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakariae-zemat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariae-zemat&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
-</p>
-
-### **🔥 Contribution Streaks**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakariae-zemat&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-### **📊 Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakariae-zemat&theme=redical&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
-</p>
-
-### **🏆 GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zakariae-zemat&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
-
-### **⚡ Recent Activity**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zakariae-zemat&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats"/>
-</p>
-
-### **📌 Pinned Repositories Performance**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zakariae-zemat&repo=LifeLinkAI&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zakariae-zemat&repo=TaskManager&theme=radical&hide_border=true"/>
-</p>
-
-</div>
-
----
-
-## 🏆 **Achievements & Certifications**
+## 🏆 **Certifications**
 
 <div align="center">
   <table>
@@ -287,12 +240,6 @@ const zakariae = {
         <br><b>Spring Boot Mastery</b>
         <br><i>Spring 6, Security, JPA, Hibernate</i>
         <br><small>November 2024</small>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Leadership-VP_IMPACT_Club-FF6B6B?style=flat-square&logo=target&logoColor=white"/>
-        <br><b>Vice President</b>
-        <br><i>IMPACT Club, FST Settat</i>
-        <br><small>2024-2025</small>
       </td>
     </tr>
   </table>
@@ -313,7 +260,7 @@ const zakariae = {
   - "Cloud Computing & DevOps"
   - "LLMOps & AI Infrastructure"
 
-🎯 goals_2025:
+🎯 goals_:
   - "Master System Design"
   - "Contribute to Open Source"
   - "Grow K3L Community to 1K+ members"
@@ -326,8 +273,6 @@ const zakariae = {
   - "DevOps & Cloud Architecture"
   - "AI/ML integration"
   - "Community building"
-
-⚡ fun_fact: "I architect solutions in three languages: French, English, and Arabic 🌍"
 ```
 
 ---
@@ -361,9 +306,7 @@ const zakariae = {
 ### **🌍 Community & Networking**
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/K3L_Community-Co--Founder-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/IMPACT_Club-Vice_President-4CAF50?style=for-the-badge&logo=target&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hackathons-Participant-FF9800?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/108041218"><img src="https://img.shields.io/badge/K3L_Community-Co--Founder-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ### **📬 Let's Build Something Amazing Together!**
