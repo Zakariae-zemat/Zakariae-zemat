@@ -247,36 +247,6 @@ const zakariae = {
 
 ---
 
-## 🌟 **Current Focus**
-
-```yaml
-🔭 currently_working_on: 
-  - "Insurance Management System (Business IT)"
-  - "Sovereign AI Gateway (XAI)"
-  - "K3L Community Growth"
-
-🌱 currently_learning: 
-  - "System Design & Architecture"
-  - "Cloud Computing & DevOps"
-  - "LLMOps & AI Infrastructure"
-
-🎯 goals_:
-  - "Master System Design"
-  - "Contribute to Open Source"
-  - "Grow K3L Community to 1K+ members"
-  - "Build production-ready AI solutions"
-
-💬 ask_me_about: 
-  - "Full-stack development"
-  - "Spring Boot ecosystem"
-  - "React & Next.js"
-  - "DevOps & Cloud Architecture"
-  - "AI/ML integration"
-  - "Community building"
-```
-
----
-
 ## 🤝 **Join My Journey**
 
 <div align="center">
@@ -310,13 +280,6 @@ const zakariae = {
 </p>
 
 ### **📬 Let's Build Something Amazing Together!**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📧-zakariaezemat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/📱-+212_636815922-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</p>
-
 </div>
 
 ---
