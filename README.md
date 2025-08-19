@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 **About Me**
+##  **About Me**
 
 ```javascript
 const zakariae = {
@@ -28,7 +28,7 @@ const zakariae = {
 
 ---
 
-## 💼 **Professional Experience**
+##  **Professional Experience**
 
 <div align="center">
 <table>
@@ -64,11 +64,11 @@ const zakariae = {
 
 ---
 
-## 🚀 **Projects**
+## **Projects**
 
 <div >
 
-#### 🏢 **Insurance Management System** | *Business IT Solutions Internship*
+#### **Insurance Management System** | *Business IT Solutions Internship*
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
@@ -76,14 +76,14 @@ const zakariae = {
 
 *insurance management system with JWT/2FA authentication, OCR processing, ML regression model, and comprehensive monitoring stack*
 
-#### 🤖 **Sovereign AI Gateway** | *XAI Internship*
+#### **Sovereign AI Gateway** | *XAI Internship*
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
 [![API Gateway](https://img.shields.io/badge/API_Gateway-FF6F00?style=flat-square&logo=amazonapigateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
 [![LLM](https://img.shields.io/badge/LLM_Serving-9C27B0?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
 
 *Moroccan alternative to OpenRouter - LLM serving platform with API gateway, containerization, and cloud deployment*
 
-#### 🩸 **LifeLinkAI** - *Intelligent Blood Donation Platform*
+#### **LifeLinkAI** - *Intelligent Blood Donation Platform*
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev/)
@@ -91,7 +91,7 @@ const zakariae = {
 
 *AI-driven platform with predictive analytics, intelligent chatbot, hospital portal, and cross-platform mobile app*
 
-#### 📋 **Task Management System**
+#### **Task Management System**
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com/)
@@ -99,7 +99,7 @@ const zakariae = {
 
 *Containerized task tracking with Prometheus, Grafana, and Loki monitoring integration*
 
-#### 🏨 **Hotel Management System**
+#### **Hotel Management System**
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com/)
 
@@ -111,7 +111,7 @@ const zakariae = {
 
 *Desktop application for organizing and tracking team project progress*
 
-#### 💼 **Job Offer Data Pipeline**
+#### **Job Offer Data Pipeline**
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)](https://talend.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -122,7 +122,7 @@ const zakariae = {
 
 ---
 
-## 🛠️ **Tech Arsenal**
+##  **Tech Arsenal**
 
 <div align="center">
 
@@ -224,7 +224,7 @@ const zakariae = {
 </div>
 ---
 
-## 🏆 **Certifications**
+## **Certifications**
 
 <div align="center">
   <table>
@@ -247,26 +247,24 @@ const zakariae = {
 
 ---
 
-## 🤝 **Join My Journey**
-
 <div align="center">
   
-### **🚀 Ready to Collaborate?**
+### **Ready to Collaborate?**
   
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/💼-PFE_Internship-4CAF50?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-PFE_Internship-4CAF50?style=for-the-badge"/>
       <br><b>Looking for Final Year Internship</b>
       <br><i>Software Development • AI/ML • DevOps</i>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🤝-Freelance_Projects-FF9800?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Freelance_Projects-FF9800?style=for-the-badge"/>
       <br><b>Available for Freelance</b>
       <br><i>Full-Stack • Mobile • AI Solutions</i>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🌟-Open_Source-9C27B0?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/-Open_Source-9C27B0?style=for-the-badge"/>
       <br><b>Open Source Contributor</b>
       <br><i>Always looking to contribute!</i>
     </td>
@@ -279,7 +277,7 @@ const zakariae = {
   <a href="https://www.linkedin.com/company/108041218"><img src="https://img.shields.io/badge/K3L_Community-FF6B6B?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-### **📬 Let's Build Something Amazing Together!**
+### **Let's Build Something Amazing Together!**
 </div>
 
 ---
@@ -293,5 +291,5 @@ const zakariae = {
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  **⭐ From [Zakariae-zemat](https://github.com/Zakariae-zemat) • Building the future, one line at a time 💜**
+  **From [Zakariae-zemat](https://github.com/Zakariae-zemat) • Building the future, one line at a time 💜**
 </div>
