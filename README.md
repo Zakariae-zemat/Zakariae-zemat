@@ -283,5 +283,6 @@ const zakariae = {
 ---
 
 <div align="center">
-  **From [Zakariae-zemat](https://github.com/Zakariae-zemat) • Building the future, one line at a time 💜**
+** From Zakariae-zemat• Building the future, one line at a time 💜**
 </div>
+---
