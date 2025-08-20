@@ -124,10 +124,10 @@ const zakariae = {
 
 ##  **Tech Arsenal**
 
-<div align="center">
+<div>
 
 ### **Frontend & Mobile Development**
-<p align="center">
+<p >
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   </a>
@@ -161,7 +161,7 @@ const zakariae = {
 </p>
 
 ### **Backend Development**
-<p align="center">
+<p >
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
@@ -180,7 +180,7 @@ const zakariae = {
 </p>
 
 ### **Databases**
-<p align="center">
+<p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a>
@@ -190,7 +190,7 @@ const zakariae = {
 </p>
 
 ### **DevOps & Cloud**
-<p align="center">
+<p>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
   </a>
@@ -209,7 +209,7 @@ const zakariae = {
 </p>
 
 ### **Tools & Design**
-<p align="center">
+<p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
@@ -236,7 +236,7 @@ const zakariae = {
         <br><small>May 2025</small>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Spring_Boot_3-Complete_Course-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/udemy-Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <br><b>Spring Boot Mastery</b>
         <br><i>Spring 6, Security, JPA, Hibernate</i>
         <br><small>November 2024</small>
@@ -283,13 +283,5 @@ const zakariae = {
 ---
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=Zakariae-zemat&color=blueviolet&style=flat-square&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/Zakariae-zemat?style=flat-square&color=blue&label=Followers"/>
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
   **From [Zakariae-zemat](https://github.com/Zakariae-zemat) • Building the future, one line at a time 💜**
 </div>
