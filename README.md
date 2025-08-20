@@ -30,7 +30,7 @@ const zakariae = {
 
 ##  **Professional Experience**
 
-<div align="center">
+<div>
 <table>
   <tr>
     <td align="center">
@@ -236,7 +236,7 @@ const zakariae = {
         <br><small>May 2025</small>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/udemy-Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-udemy-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <br><b>Spring Boot Mastery</b>
         <br><i>Spring 6, Security, JPA, Hibernate</i>
         <br><small>November 2024</small>
